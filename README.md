@@ -25,4 +25,4 @@
 
 ## Acknowledgements
 
-* Inspired by the tutorial template from HaoAreYuDong/Large-Language-Models-for-Tabular-Data.
+* Inspired by the tutorial template from [Tutorial on Large Language Models for Tabular Data: Progresses and Future Directions](https://github.com/HaoAreYuDong/Large-Language-Models-for-Tabular-Data/).
