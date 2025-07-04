@@ -5,11 +5,12 @@
 ## Slides
 - TBD
 
-    
 ## Paper
 - TBD
 
+## Hands-on Demostration
 
+- [Link](https://github.com/zzlang-c/llm-tabular-ai/tree/main/hands-on-demo)
 
 ## Paper List
 
