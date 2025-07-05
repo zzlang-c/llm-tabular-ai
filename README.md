@@ -70,6 +70,6 @@ If you find this tutorial useful, please kindly cite us:
   author = {Dong, Haoyu and Cao, Lang and Zhang, Mengqi},
   year = {2025},
   howpublished = {\url{https://github.com/zzlang-c/llm-tabular-ai}},
-  note = {NeurIPS 2025 Tutorial}
+  note = {Tutorial}
 }
 ```
